@@ -436,7 +436,6 @@
 8659992267,"Moyenne","Finance","Quebec","Vol de données personnelles",10
 1581774015,"Petite","Éducation","Quebec","Attaque par rançongiciel",8
 7411300718,"Moyenne","Technologie","Quebec","Attaque par rançongiciel",15
-1680082688,"Moyenne","Finance","Quebec","Attaque par déni de service",0
 3859510686,"Petite","Technologie","Quebec","Attaque par déni de service",9
 2202208173,"Petite","Technologie","Ontario","Attaque par rançongiciel",2
 3075199882,"Moyenne","Santé","Ontario","Attaque par rançongiciel",11
@@ -957,7 +956,6 @@
 5894354692,"Petite","Technologie","Quebec","Espionnage industriel",6
 8581774595,"Petite","Santé","Quebec","Espionnage industriel",5
 6540332183,"Grande","Éducation","Quebec","Vol de données personnelles",15
-7887637400,"Moyenne","Santé","Quebec","Attaque par déni de service",19
 3881304431,"Petite","Éducation","Quebec","Attaque par déni de service",2
 9488825588,"Petite","Finance","Quebec","Espionnage industriel",5
 1781779490,"Grande","Finance","Quebec","Espionnage industriel",13
@@ -1073,7 +1071,6 @@
 8825179572,"Grande","Technologie","Quebec","Attaque par rançongiciel",17
 2913273540,"Moyenne","Finance","Ontario","Vol de données personnelles",10
 7918915172,"Petite","Technologie","Quebec","Vol de données personnelles",4
-4983237877,"Petite","Santé","Ontario","Attaque par rançongiciel",14
 9835391746,"Petite","Santé","Quebec","Espionnage industriel",5
 9595573996,"Petite","Santé","Quebec","Attaque par rançongiciel",5
 6012259431,"Petite","Éducation","Quebec","Attaque par rançongiciel",5
@@ -1205,7 +1202,6 @@
 6198998996,"Grande","Technologie","Ontario","Attaque par rançongiciel",13
 331942450,"Petite","Finance","Ontario","Attaque par déni de service",6
 2197715606,"Moyenne","Technologie","Quebec","Espionnage industriel",5
-8048612450,"Petite","Santé","Ontario","Vol de données personnelles",14
 5667741657,"Petite","Finance","Quebec","Vol de données personnelles",4
 4216218988,"Grande","Éducation","Quebec","Espionnage industriel",13
 395277539,"Grande","Éducation","Ontario","Attaque par déni de service",16
